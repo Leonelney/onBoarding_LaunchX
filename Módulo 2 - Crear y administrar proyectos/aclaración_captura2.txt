@@ -1,0 +1,4 @@
+Tengo un alias que sustituye
+	source env/bin/activate
+por
+	activenv
